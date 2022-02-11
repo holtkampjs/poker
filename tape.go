@@ -1,4 +1,4 @@
-package poker-go
+package poker
 
 import (
 	"os"
