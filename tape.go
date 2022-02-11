@@ -1,4 +1,4 @@
-package poker
+package github.com/holtkampjs/poker
 
 import (
 	"os"
