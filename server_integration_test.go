@@ -1,4 +1,4 @@
-package github.com/holtkampjs/poker
+package poker
 
 import (
 	"net/http"
