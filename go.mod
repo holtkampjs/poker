@@ -1,3 +1,3 @@
-module github.com/holtkampjs/poker
+module poker
 
 go 1.17
